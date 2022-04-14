@@ -1,0 +1,12 @@
+name: MAScore
+version: '${project.version}'
+main: net.minearte.mascore.MAScore
+api-version: 1.18
+authors: [ Angelillo15 ]
+description: Minearte Survival Core
+website: angelillo15.es
+commands:
+  staff:
+    description: "Toggle Staff Mode"
+  freeze:
+    description: "Freeze a player"

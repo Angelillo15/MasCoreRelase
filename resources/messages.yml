@@ -1,0 +1,11 @@
+messages:
+  prefix: '&b&lSTAFFMODE &7» '
+  staffEnable: '&bStaff mode has ben enabled.'
+  staffDisable: '&bStaff mode has ben disabled.'
+  staffNoPermission: '&bYou don''t have enough permissions to run this command.'
+freeze:
+  message:
+    - '&4You have been frozed'
+    - '&4You have to enter in ss channel in our discord'
+    - 'Discord: discord.example.com'
+    - ''
