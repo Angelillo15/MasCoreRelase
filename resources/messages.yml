@@ -1,5 +1,6 @@
 #Download From GitHub 
 #https://github.com/AngelCraft15/MasCoreRelase/blob/main/resources/messages.yml
+version: 1
 messages:
   prefix: '&b&lSTAFFMODE &7» '
   staffEnable: '&bStaff mode has ben enabled.'
