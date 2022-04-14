@@ -12,4 +12,4 @@ freeze:
     - '&4You have to enter in ss channel in our discord'
     - 'Discord: discord.example.com'
     - ''
-  noPlayers: '&4&lThat player isn't online'
+  noPlayers: '&4&lThat player is not online'
