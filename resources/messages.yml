@@ -2,14 +2,15 @@
 #https://github.com/AngelCraft15/MasCoreRelase/blob/main/resources/messages.yml
 version: 1
 messages:
-  prefix: '&b&lSTAFFMODE &7» '
-  staffEnable: '&bStaff mode has ben enabled.'
-  staffDisable: '&bStaff mode has ben disabled.'
-  staffNoPermission: '&bYou don't have enough permissions to run this command.'
+  prefix: "&b&lSTAFFMODE &7» "
+  staffEnable: "&bStaff mode has ben enabled."
+  staffDisable: "&bStaff mode has ben disabled."
+  staffNoPermission: "&bYou don't have enough permissions to run this command."
 freeze:
   message:
-    - '&4You have been frozed'
-    - '&4You have to enter in ss channel in our discord'
-    - 'Discord: discord.example.com'
-    - ''
-  noPlayers: '&4&lThat player is not online'
+    - "&4You have been frozed"
+    - "&4You have to enter in ss channel in our discord"
+    - "Discord: discord.example.com"
+    - ""
+  noPlayers: "&4&lThat player is not online"
+
